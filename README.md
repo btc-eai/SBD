@@ -6,6 +6,12 @@ Basierend auf dem [Sovereign Cloud Compass (SCC)](https://github.com/btc-ag/SCC)
 
 **Demo:** https://sbd.object.storage.eu01.onstackit.cloud/index.html
 
+> **Stand und Übergabe (29.10.2026):** Verantwortlich ist Christian Suhr (Übergabe von Thomas Soring).
+> Die Demo ist derzeit nicht erreichbar (HTTP 403). Der Workflow „Deploy to STACKIT Object Storage“ ist
+> deaktiviert, die STACKIT-Zugangsdaten (`STACKIT_ACCESS_KEY_ID`, `STACKIT_SECRET_ACCESS_KEY`) sind nicht
+> mehr als Secrets hinterlegt. Für einen neuen Deploy: Bucket `sbd` in einem STACKIT-Projekt anlegen,
+> Zugangsdaten als Secrets setzen, Workflow wieder einschalten.
+
 ---
 
 ## Was ist SBD?
